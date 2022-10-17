@@ -11,7 +11,7 @@ nav {
     color: white;
 }
 
-nav ul li {
+ ul li {
     color: white;
     list-style: none;
     text-decoration: none;
@@ -21,6 +21,7 @@ ul li a {
     color: white;
     text-decoration: none;
 }
+
 
 .burger {
     color: white;
@@ -43,4 +44,14 @@ button{
 button a{
     color: white;
     text-decoration: none;
+}
+
+.info{
+    background-color: var(--bg-footer);
+    color: white;
+}
+
+footer{
+    background-color: var(--bg-secondary-color);
+    color: white;
 }
