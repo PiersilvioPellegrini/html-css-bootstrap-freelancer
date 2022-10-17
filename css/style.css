@@ -1,0 +1,46 @@
+:root {
+    --bg-primary-color: #19BC9C;
+    --bg-secondary-color: #2C3E50;
+    --bg-footer: #3B546D;
+
+
+}
+
+nav {
+    background-color: var(--bg-secondary-color);
+    color: white;
+}
+
+nav ul li {
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.burger {
+    color: white;
+}
+
+.about,
+.start-bootstrap {
+    background-color: var(--bg-primary-color);
+    
+}
+
+button{
+    background-color:transparent;
+    border: solid white 1px ;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    
+}
+
+button a{
+    color: white;
+    text-decoration: none;
+}
